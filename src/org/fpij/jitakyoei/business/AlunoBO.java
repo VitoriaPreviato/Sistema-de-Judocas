@@ -9,4 +9,5 @@ public interface AlunoBO {
 	public void updateAluno(Aluno aluno) throws Exception;
 	public List<Aluno> searchAluno(Aluno aluno) throws Exception;
 	public List<Aluno> listAll() throws Exception;
+        
 }
