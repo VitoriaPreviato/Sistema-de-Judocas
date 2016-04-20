@@ -10,3 +10,5 @@ fpij.db
 test.db
 /Judocas/nbproject/private/
 /nbproject/private/
+/build/
+/dist/
